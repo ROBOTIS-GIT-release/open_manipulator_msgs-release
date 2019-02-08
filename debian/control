@@ -1,0 +1,12 @@
+Source: ros-melodic-open-manipulator-msgs
+Section: misc
+Priority: extra
+Maintainer: Pyo <pyo@robotis.com>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin, ros-melodic-geometry-msgs, ros-melodic-message-generation, ros-melodic-std-msgs
+Homepage: http://wiki.ros.org/open_manipulator_msgs
+Standards-Version: 3.9.2
+
+Package: ros-melodic-open-manipulator-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-geometry-msgs, ros-melodic-message-runtime, ros-melodic-std-msgs
+Description: Messages and services package for OpenManipulator to send information about state or pose
