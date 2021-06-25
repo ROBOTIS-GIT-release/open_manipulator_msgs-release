@@ -1,0 +1,44 @@
+ros-noetic-open-manipulator-msgs (1.0.1-1focal) focal; urgency=high
+
+  * Noetic support
+  * Contributors: Will Son
+
+ -- Will Son <willson@robotis.com>  Wed, 23 Jun 2021 15:00:00 -0000
+
+ros-noetic-open-manipulator-msgs (1.0.0-1focal) focal; urgency=high
+
+  * added endeffector name
+  * added params
+  * added authors
+  * added path time variable
+  * deleted unused params
+  * updated msg and srv
+  * updated the CHANGELOG and version to release binary packages
+  * Contributors: Darby Lim, Yong-Ho Na, Pyo
+
+ -- Will Son <willson@robotis.com>  Thu, 07 Feb 2019 15:00:00 -0000
+
+ros-noetic-open-manipulator-msgs (0.3.0-1focal) focal; urgency=high
+
+  * Package reconfiguration for OpenManipulator
+  * Contributors: Darby Lim, Pyo
+
+ -- Will Son <willson@robotis.com>  Thu, 31 May 2018 15:00:00 -0000
+
+ros-noetic-open-manipulator-msgs (0.1.1-1focal) focal; urgency=high
+
+  * none
+
+ -- Will Son <willson@robotis.com>  Wed, 14 Mar 2018 15:00:00 -0000
+
+ros-noetic-open-manipulator-msgs (0.1.0-1focal) focal; urgency=high
+
+  * modified dynamixel controller
+  * modified msgs and description
+  * modified cmake, package files for release
+  * refactoring for release
+  * Contributors: Darby Lim, Pyo
+
+ -- Will Son <willson@robotis.com>  Tue, 13 Mar 2018 15:00:00 -0000
+
+

@@ -1,0 +1,12 @@
+Source: ros-noetic-open-manipulator-msgs
+Section: misc
+Priority: optional
+Maintainer: Will Son <willson@robotis.com>
+Build-Depends: debhelper (>= 9.0.0), ros-noetic-catkin, ros-noetic-geometry-msgs, ros-noetic-message-generation, ros-noetic-std-msgs
+Homepage: http://wiki.ros.org/open_manipulator_msgs
+Standards-Version: 3.9.2
+
+Package: ros-noetic-open-manipulator-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-noetic-geometry-msgs, ros-noetic-message-runtime, ros-noetic-std-msgs
+Description: Messages and services package for OpenManipulator to send information about state or pose
